@@ -32,20 +32,6 @@ I enjoy contributing to impactful projects, and continuously expanding my skill 
 
 ---
 
-## 📈 Tech Knowledge at a Glance  
-```mermaid
-pie
-    title Technology Proficiency
-    "Python & Django": 35
-    "API Development": 20
-    "React & TailwindCSS": 15
-    "Laravel": 15
-    "Databases": 10
-    "DevOps & Linux": 5
-``` 
-
----
-
 ## 💼 Featured Projects  
 ### 🛒 **Marlin**  
 A **e-commerce application** promoting local entrepreneurship in Costa Rica.  
