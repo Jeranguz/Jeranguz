@@ -1,184 +1,156 @@
 <div align="center">
 
-# 🚀 Hey there! I'm Jeremy Andrés Guzmán Vargas
+# Jeremy Andrés Guzmán Vargas
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%92%BB;Cloud+Enthusiast+%E2%98%81%EF%B8%8F;DevOps+Explorer+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Backend+Developer;DevOps+Enthusiast;Cloud+Infrastructure+Learner" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jeranguz&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Jeranguz?label=Followers&style=flat-square&color=0e75b6" alt="Followers" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Jeranguz&label=Profile%20Views&color=0e75b6&style=flat-square"/>
+  <img src="https://img.shields.io/github/followers/Jeranguz?label=Followers&style=flat-square&color=0e75b6"/>
 </p>
 
+Backend Developer focused on **scalable APIs, cloud infrastructure, and DevOps practices**.
+
+Currently transitioning toward **Site Reliability Engineering (SRE)** and **Cloud Architecture**.
+
 </div>
 
 ---
 
-<div align="center">
+## 👨‍💻 About Me
 
-### 🎓 **Informatics & Multimedia Technology Student** @ University of Costa Rica
-### 💼 **Backend Developer | Future DevOps Engineer | Cloud Enthusiast**
+I'm a **backend developer transitioning into DevOps and Site Reliability Engineering (SRE)**.
 
-</div>
+I enjoy working on systems that involve:
 
-## 🌟 About Me
+⚙️ backend architecture  
+🐳 containerization  
+☁️ cloud infrastructure  
+📦 CI/CD automation  
+🔍 system reliability  
 
-<div align="center">
+Currently working on backend systems and deployments at the **University of Costa Rica**, while deepening my knowledge in **cloud and infrastructure engineering**.
 
-## 🛠️ **Tech Arsenal**
+---
 
-</div>
+# Tech Stack
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
+## Backend
 
-### 🔥 **Backend & APIs**
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![DRF](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![Django Rest](https://img.shields.io/badge/Django%20REST-red?style=for-the-badge)
+![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)
 
-</td>
-<td align="center" width="50%">
+## Frontend
 
-### 🎨 **Frontend & Design**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=tailwindcss)
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
 
-</td>
-</tr>
-<tr>
-<td align="center">
+## Databases
 
-### 🗄️ **Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
 
-</td>
-<td align="center">
+## DevOps & Cloud
 
-### ☁️ **DevOps & Cloud**
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
-
-</td>
-</tr>
-</table>
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws)
+![Jenkins](https://img.shields.io/badge/Jenkins-red?style=for-the-badge&logo=jenkins)
 
 ---
 
-<div align="center">
+# Featured Projects
 
-## 🏆 **Featured Projects**
+## Marlin E-commerce
 
-</div>
+Backend architecture for an e-commerce platform supporting small Costa Rican businesses.
 
-<div align="center">
-<table>
-<tr>
-<td width="50%">
+**Stack**
 
-### 🛒 **Marlin E-commerce**
-*Empowering Costa Rican Entrepreneurs*
+- Django
+- Django REST Framework
+- PostgreSQL
+- JWT Authentication
 
-**🎯 Role:** Backend Developer  
-**⚡ Stack:** Django, DRF, PostgreSQL, JWT
+**Key Features**
 
-**✨ Key Features:**
-- 🔐 Secure authentication system
-- 🏪 Advanced store management
-- 📦 Dynamic product variations
-- 🚚 Smart delivery calculations
-
-</td>
-<td width="50%">
-
-### 🌐 **PyCon LATAM 2024 & 2025**
-*Building Community Bridges*
-
-**🎯 Role:** Full-Stack Developer  
-**⚡ Stack:** Multi-language platform
-
-**✨ Achievements:**
-- 🌍 Bilingual website development
-- 📈 Community engagement boost
-- 🎨 Modern landing pages
-- 🤝 International collaboration
-
-</td>
-</tr>
-</table>
-</div>
+- Secure authentication and authorization
+- Product and inventory management
+- Store management system
+- Delivery and order processing logic
 
 ---
 
+## PyCon LATAM Platform
+
+Development of the event platform for **PyCon LATAM 2024 and 2025**.
+
+**Responsibilities**
+
+- Full-stack development
+- Internationalization (multi-language support)
+- Landing page implementation
+- Backend integrations
+
+This platform helped support the **Python community across Latin America**.
+
+---
+
+# Current Learning Focus
+
+I am currently deepening my knowledge in **DevOps and cloud infrastructure**.
+
+Topics I am actively studying:
+
+- Kubernetes
+- CI/CD pipelines
+- Infrastructure as Code
+- Cloud architecture on AWS
+- Linux system administration
+
+My goal is to transition into a **DevOps / Site Reliability Engineering role**.
+
+---
+
+# GitHub Statistics
+
 <div align="center">
 
-## 📊 **GitHub Analytics**
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jeranguz&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeranguz&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117"/>
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jeranguz&theme=react&hide_border=true&background=0D1117" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeranguz&theme=react-dark&hide_border=true"/>
 
 </div>
 
 ---
 
-<div align="center">
-
-## 🌱 **Current Learning Journey**
-
-</div>
-
-```mermaid
-graph LR
-    A[🎯 Current Focus] --> B[Kubernetes]
-    A --> C[DevOps Fundamentals]
-    A --> D[AWS Cloud Architecture]
-    
-    B --> E[Learn about clusters and nodes]
-    C --> F[Docker & CI/CD with Jenkins]
-    D --> G[Scalable Infrastructure]
-    
-    style A fill:#00D9FF,stroke:#333,stroke-width:2px,color:#000
-    style B fill:#FF6B6B,stroke:#333,stroke-width:2px,color:#fff
-    style C fill:#4ECDC4,stroke:#333,stroke-width:2px,color:#fff
-    style D fill:#45B7D1,stroke:#333,stroke-width:2px,color:#fff
-```
-
----
-
-<div align="center">
-
-## 🤝 **Let's Connect & Collaborate!**
+# Connect With Me
 
 <p>
 <a href="https://www.linkedin.com/in/jeremy-guzman-369318271/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
+
 <a href="mailto:jeremyu4231@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
+
 <a href="https://github.com/Jeranguz">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 </p>
 
-### 💡 Open to:
-- 🤝 Backend development collaborations
-- ☁️ DevOps and cloud projects  
-- 🚀 Innovative startup opportunities
-- 🌟 Open source contributions
-
 ---
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
+<div align="center">
+
+Always open to:
+
+Backend collaborations  
+DevOps and infrastructure projects  
+Open source contributions  
 
 </div>
