@@ -29,7 +29,7 @@ I enjoy working on systems that involve:
 📦 CI/CD automation  
 🔍 system reliability  
 
-Currently working on backend systems and deployments at the **University of Costa Rica**, while deepening my knowledge in **cloud and infrastructure engineering**
+Currently working on backend systems and deployments at the **University of Costa Rica**, while deepening my knowledge in **cloud and infrastructure engineering**.
 
 ---
 
